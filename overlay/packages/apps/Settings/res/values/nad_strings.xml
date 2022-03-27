@@ -12,8 +12,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- AncientOS Device & Maintainer Info -->
-    <string name="maintainer_name">ygherna</string>
+    <!-- NusantaraOS Device & Maintainer Info -->
+    <string name="maintainer_name">RyzenForce</string>
     <string name="ancient_device_name_summary">Mi 11 Lite 4G</string>
     <string name="ancient_chipset_type_summary">Qualcomm® SM7150 Snapdragon™ 732G</string>
     <string name="ancient_gpu_summary">Adreno 618</string>
