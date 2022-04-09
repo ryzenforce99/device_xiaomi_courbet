@@ -16,13 +16,9 @@
 */
 -->
 <resources>
-    <dimen name="rounded_corner_content_padding">10dp</dimen>
-     <!-- navigation_extra_key_width -->
+    <dimen name="status_bar_padding_top">9dp</dimen>
+    <dimen name="status_bar_padding_start">2dp</dimen>
+    <dimen name="status_bar_padding_end">4dp</dimen>
+    <dimen name="rounded_corner_content_padding">16dp</dimen>
     <dimen name="navigation_side_padding">85.0dip</dimen>
-    <!-- the padding on the top of the statusbar (usually 0) -->
-    <dimen name="status_bar_padding_top">5.0dip</dimen>
-    <!-- the padding on the start of the statusbar -->
-    <dimen name="status_bar_padding_start">5.0dip</dimen>
-    <!-- the padding on the end of the statusbar -->
-    <dimen name="status_bar_padding_end">5.0dip</dimen>
 </resources>
